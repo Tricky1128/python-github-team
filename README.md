@@ -1,1 +1,1 @@
-# puython-github-team
+# python-github-team
