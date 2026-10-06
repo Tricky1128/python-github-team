@@ -1,16 +1,4 @@
-Tysean-Branch
-
-
-
-
-
-
-
-
-
-
-
-
+print("Hi Everyone")
 print("Wassup, my name is Tysean and I am a part of Group 12.")
 
 brayanc99-star-patch-1
